@@ -11,7 +11,7 @@ Use your best judgment, and feel free to propose changes to this document in a p
 
 ## Code of Conduct
 
-See [CODE_OF_CONDUCT.md](https://github.com/Larissa-Health/did-ssi-directory/CODE_OF_CONDUCT.md)
+See [CODE_OF_CONDUCT.md](https://github.com/Larissa-Health/did-ssi-directory/blob/main/CODE_OF_CONDUCT.md)
 
 ## I don't want to read all of this, I just have question!
 
@@ -24,7 +24,7 @@ Discussions are also the place to talk about your ideas on how to improve the po
 
 ## Project structure
 
-Make yourself familiar with the [Project Structure](https://github.com/Larissa-Health/did-ssi-directory/PROJECT_STRUCTURE.md). 
+Make yourself familiar with the [Project Structure](https://github.com/Larissa-Health/did-ssi-directory/blob/main/PROJECT_STRUCTURE.md). 
 
 We try to keep everything as simple as possible, but not simpler. 
 If you see something that could be improved, you are encouraged to raise an issue wherein you propose your changes and explain the rationale.
@@ -36,7 +36,7 @@ The project showcase should be a place where someone new to the ecosystem can co
 ### Adding your own project
 
 Read the **requirements** and follow the **instructions** in the guide of 
-[How to Showcase Your Project](https://github.com/Larissa-Health/did-ssi-directory/SHOWCASE_YOUR_PRODUCT.md).
+[How to Showcase Your Project](https://github.com/Larissa-Health/did-ssi-directory/blob/main/SHOWCASE_YOUR_PRODUCT.md).
 
 #### A word about project descriptions
 
@@ -59,10 +59,10 @@ To maintain the quality of content in the directory, we use pull requests to int
 
 Please follow these steps to have your contribution considered by the maintainers:
 
-1. Follow all instructions in [the template](.github/PULL_REQUEST_TEMPLATE.md)
-2. Follow the [styleguides](https://github.com/Larissa-Health/did-ssi-directory/STYLEGUIDE.md)  
+1. Follow all instructions in [the template](https://github.com/Larissa-Health/did-ssi-directory/blob/main/PULL_REQUEST_TEMPLATE.md)
+2. Follow the [styleguides](https://github.com/Larissa-Health/did-ssi-directory/blob/main/STYLEGUIDE.md)  
 3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track and resolve that problem.</details>
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
-*This contribution guide is adapted from [Cardano Developer Portal](https://github.com/cardano-foundation/developer-portal) 
+* *This contribution guide is adapted from [Cardano Developer Portal](https://github.com/cardano-foundation/developer-portal) 
