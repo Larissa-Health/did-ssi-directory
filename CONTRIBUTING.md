@@ -4,8 +4,7 @@
 
 You do not have to be a tech-pro to contribute.  
 The following is a set of guidelines for contributing to this open directory.  
-Hosted in [Larissa.Health](https://github.com/Larissa-Health/did-ssi-directory) on GitHub.  
-Co-curated with [GitBook](https://gitbook.com).  
+Hosted on [GitHub](https://github.com/Larissa-Health/did-ssi-directory) co-curated with [GitBook](https://gitbook.com).  
 These are mostly guidelines, not rules.  
 Use your best judgment, and feel free to propose changes to this document in a pull request.
 
