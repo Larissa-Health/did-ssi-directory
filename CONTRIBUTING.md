@@ -2,9 +2,9 @@
 
 👍🎉First of all, thank you for taking the time to contribute!🎉👍
 
-You do not have to be a tech-pro to contribute.
+You do not have to be a tech-pro to contribute.  
 The following is a set of guidelines for contributing to this open directory.  
-Hosted in [Larissa.Health](https://github.com/Larissa-Health/did-ssi-directory) on GitHub. 
+Hosted in [Larissa.Health](https://github.com/Larissa-Health/did-ssi-directory) on GitHub.  
 Co-curated with [GitBook](https://gitbook.com).  
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
@@ -40,9 +40,9 @@ Read the **requirements** and follow the **instructions** in the guide of
 #### A word about project descriptions
 
 We understand that you burn for your product, but try to stay objective.  
-Descriptions help users find a project they are interested in and decide whether to visit the links you provided. 
-Use relevant keywords and describe what your project is all about or what it does. 
-Don't include claims in your description like *the **best** wallet*, *the **first** ABC* or *the **only** XYZ*. 
+Descriptions help users find a project they are interested in and decide whether to visit the links you provided.  
+Use relevant keywords and describe what your project is all about or what it does.  
+Don't include claims in your description like *the **best** wallet*, *the **first** ABC* or *the **only** XYZ*.  
 We will ask you to change the description in your pull request before merging. @TODO rationale?
 
 ## Ideas 
