@@ -17,8 +17,10 @@ See [CODE_OF_CONDUCT.md](https://github.com/Larissa-Health/did-ssi-directory/blo
 
 Please check out our [Discussions section](https://github.com/Larissa-Health/did-ssi-directory/discussions). 
 Maybe you find a thread that answers your questions. 
-If not, feel free to [open a new thread](https://github.com/Larissa-Health/did-ssi-directory/discussions/new) and explain what you are wondering about. 
-And then there is a multitude of other channels specific to your project.
+If not, feel free to [open a new thread](https://github.com/Larissa-Health/did-ssi-directory/discussions/new) and explain what you are wondering about.   
+
+**And then there is a multitude of other channels specific to your project.**  
+*(Hopefully the are documented here 🙃)
 
 Discussions are also the place to talk about your ideas on how to improve the portal and engage with developers and contributors.
 
