@@ -1,45 +1,36 @@
-# What is MyProduct?
+# The open SSI / DID Directory
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+**Important:** This directory is here for all of us to learn. You do not have to be technical to contribute, but we expect you to do your research before you contribute. We are blockchain agnostic. **This is no place for hate ❤️**&#x20;
+
+You can present your project, but make sure it is not a commercial and you follow the
+
+* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [Contribution Guide](CONTRIBUTING.md)
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+DID and SSI are still very young technologies and yet to be explored. &#x20;
 
-## Getting Started
+We have found that the information is scattered all over the place. As a newbie, there is no easy place to just dive in, explore the topic and inform yourself about the project groups working on it. This directory aims to solve this issue.
 
-**Got 2 minutes?** Check out a video overview of our product:
+We welcome everybody to be curious and to join our effort.
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
-### Guides: Jump right in
+### First Steps
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fundamentals/did-in-a-nutshell.md" %}
+[did-in-a-nutshell.md](fundamentals/did-in-a-nutshell.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fundamentals/ssi-in-a-nutshell.md" %}
+[ssi-in-a-nutshell.md](fundamentals/ssi-in-a-nutshell.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fundamentals/scientific-foundation/" %}
+[scientific-foundation](fundamentals/scientific-foundation/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -50,20 +41,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="fundamentals/scientific-foundation/task-lists.md" %}
+[task-lists.md](fundamentals/scientific-foundation/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="fundamentals/scientific-foundation/tasks.md" %}
+[tasks.md](fundamentals/scientific-foundation/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
