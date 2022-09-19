@@ -29,34 +29,18 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [ssi-in-a-nutshell.md](fundamentals/ssi-in-a-nutshell.md)
 {% endcontent-ref %}
 
+### Fundamentals: Dive a little deeper
+
+Get a deeper understanding of DID, SSI, why they matter and who is working on it
+
 {% content-ref url="fundamentals/scientific-foundation/" %}
 [scientific-foundation](fundamentals/scientific-foundation/)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="blockchains-and-projects/trust-registry.md" %}
+[trust-registry.md](blockchains-and-projects/trust-registry.md)
 {% endcontent-ref %}
-
-{% content-ref url="fundamentals/scientific-foundation/task-lists.md" %}
-[task-lists.md](fundamentals/scientific-foundation/task-lists.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/scientific-foundation/tasks.md" %}
-[tasks.md](fundamentals/scientific-foundation/tasks.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
