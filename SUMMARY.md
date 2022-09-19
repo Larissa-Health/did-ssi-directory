@@ -4,7 +4,7 @@
 
 ## Fundamentals
 
-* [DID  in a nutshell](fundamentals/did-in-a-nutshell.md)
+* [DID in a nutshell](fundamentals/did-in-a-nutshell.md)
 * [SSI in a nutshell](fundamentals/ssi-in-a-nutshell.md)
 * [SCIENTIFIC FOUNDATION](fundamentals/scientific-foundation/README.md)
   * [Origins](fundamentals/scientific-foundation/origins.md)
@@ -28,5 +28,6 @@
   * [IAMX](blockchains-and-projects/cardano/iamx.md)
   * [Lace Wallet](blockchains-and-projects/cardano/lace-wallet.md)
   * [Roots ID](blockchains-and-projects/cardano/roots-id.md)
+* [ETHEREUM](blockchains-and-projects/ethereum.md)
 * [POLYGON](blockchains-and-projects/polygon.md)
 * [TRUST REGISTRY](blockchains-and-projects/trust-registry.md)
