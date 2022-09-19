@@ -8,8 +8,10 @@
 * [SSI in a nutshell](fundamentals/ssi-in-a-nutshell.md)
 * [SCIENTIFIC FOUNDATION](fundamentals/scientific-foundation/README.md)
   * [Origins](fundamentals/scientific-foundation/origins.md)
-  * [Decentralized Identity](fundamentals/scientific-foundation/tasks.md)
-  * [Self-Sovereign Identity](fundamentals/scientific-foundation/task-lists.md)
+  * [Decentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
+  * [Self-Sovereign Identity (SSI)](fundamentals/scientific-foundation/task-lists.md)
+  * [Common Goals](fundamentals/scientific-foundation/common-goals.md)
+  * [Constraints](fundamentals/scientific-foundation/constraints.md)
 
 ## BLOCKCHAINS & PROJECTS
 
