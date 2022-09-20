@@ -6,6 +6,7 @@
 
 * [DIDs in a nutshell](fundamentals/did-in-a-nutshell.md)
 * [SSI in a nutshell](fundamentals/ssi-in-a-nutshell.md)
+* [Contribution Pattern](fundamentals/contribution-pattern.md)
 * [SCIENTIFIC FOUNDATION](fundamentals/scientific-foundation/README.md)
   * [Origins](fundamentals/scientific-foundation/origins.md)
   * [Dezentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
