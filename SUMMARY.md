@@ -4,11 +4,11 @@
 
 ## Fundamentals
 
-* [DID in a nutshell](fundamentals/did-in-a-nutshell.md)
+* [DIDs in a nutshell](fundamentals/did-in-a-nutshell.md)
 * [SSI in a nutshell](fundamentals/ssi-in-a-nutshell.md)
 * [SCIENTIFIC FOUNDATION](fundamentals/scientific-foundation/README.md)
   * [Origins](fundamentals/scientific-foundation/origins.md)
-  * [Decentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
+  * [Dezentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
   * [Self-Sovereign Identity (SSI)](fundamentals/scientific-foundation/task-lists.md)
   * [Common Goals](fundamentals/scientific-foundation/common-goals.md)
   * [Constraints](fundamentals/scientific-foundation/constraints.md)
@@ -31,3 +31,7 @@
 * [ETHEREUM](blockchains-and-projects/ethereum.md)
 * [POLYGON](blockchains-and-projects/polygon.md)
 * [TRUST REGISTRY](blockchains-and-projects/trust-registry.md)
+
+## LICENSES
+
+* [W3C SOFTWARE AND DOCUMENT NOTICE AND LICENSE](licenses/w3c-software-and-document-notice-and-license.md)
