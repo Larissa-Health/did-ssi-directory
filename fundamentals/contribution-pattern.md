@@ -9,7 +9,7 @@ Blockchains and projects should be sorted in alphabetical order.
 ```
 BITCOIN
 CARDANO
-ETHERUM
+ETHEREUM
 YOUR_BLOCKCHAIN
 ├──Your_Projekt_Name
 | ├── Project info
@@ -19,6 +19,7 @@ YOUR_BLOCKCHAIN
 | | └── API
 | ├── [...] 
 └─└── Community
+[...]
 POLYGON
 ```
 
