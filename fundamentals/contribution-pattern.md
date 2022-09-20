@@ -7,11 +7,14 @@ Head over to **Blockchain & Projects** and please follow this pattern.
 Blockchains and projects should be sorted in alphabetical order.
 
 ```
-BITCOIN
-CARDANO
-ETHEREUM
+BITCOIN  
+
+CARDANO  
+
+ETHEREUM  
+
 YOUR_BLOCKCHAIN
-├──Your_Projekt_Name
+├── Your_Projekt_Name
 | ├── Project info
 | ├── Current active Version
 | | ├── Installation guide
@@ -19,7 +22,9 @@ YOUR_BLOCKCHAIN
 | | └── API
 | ├── [...] 
 └─└── Community
-[...]
+
+[...]  
+
 POLYGON
 ```
 
