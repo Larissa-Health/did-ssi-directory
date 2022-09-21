@@ -2,9 +2,11 @@
 
 ### 🎉 You want to contribute even add your own project?&#x20;
 
-Log in using this GitBook-Link bellow and start creating. If you see something that needs correction or could be explained better go forward and request a change 👀🎉
+**👇 Log in** using this **GitBook-Link** below and **start creating 👇**.&#x20;
 
 {% embed url="https://app.gitbook.com/invite/46MTfw4F9reerGVuFcoI/TRDM1FqFHWRjyHaeqU81" %}
+
+If you see something that needs correction or could be explained better go forward and request a change 👀🎉
 
 Head over to **Blockchain & Projects,** and please proceed in the following pattern.
 
