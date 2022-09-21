@@ -13,7 +13,7 @@ You can present your project, but make sure it is not a commercial and you follo
 * [Contribution Guide](CONTRIBUTING.md)
 {% endhint %}
 
-DID and SSI are still very young technologies and yet to be explored. &#x20;
+### DID and SSI are still very young technologies and yet to be explored &#x20;
 
 We have found that the information is scattered all over the place. As a newbie, there is no easy place to just dive in, explore the topic and inform yourself about the project groups working on it. This directory aims to solve this issue.
 
