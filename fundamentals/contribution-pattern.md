@@ -12,7 +12,7 @@ Head over to **Blockchain & Projects,** and please proceed in the following patt
 
 Blockchains and projects should be sorted in alphabetical order.
 
-If your Project is already handling cross-platform then add your project to the platform you mainly operate on. After that you add only the name in the [cross-platform-projects.md](../blockchains-and-projects/cross-platform-projects.md "mention")and link it to the different blockchains using GitBook's links.&#x20;
+If your Project is already handling cross-platform then add your project to the ledger you mainly operate on. After that you add only the name in the [cross-platform-projects.md](../blockchains-and-projects/cross-platform-projects.md "mention") and link it to the different ledgers/blockchains using GitBook's links.&#x20;
 
 ```
 BITCOIN  

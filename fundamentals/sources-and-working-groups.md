@@ -11,5 +11,3 @@
 {% embed url="https://essif-lab.github.io/framework/docs/essifLab" %}
 
 {% embed url="https://www.hyperledger.org/learn/training" %}
-
-{% embed url="https://github.com/roots-id/vc-schema-catalog" %}
