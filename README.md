@@ -29,6 +29,10 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [ssi-in-a-nutshell.md](fundamentals/ssi-in-a-nutshell.md)
 {% endcontent-ref %}
 
+{% content-ref url="fundamentals/contribution-pattern.md" %}
+[contribution-pattern.md](fundamentals/contribution-pattern.md)
+{% endcontent-ref %}
+
 ### Fundamentals: Dive a little deeper
 
 Get a deeper understanding of DID, SSI, why they matter and who is working on it
