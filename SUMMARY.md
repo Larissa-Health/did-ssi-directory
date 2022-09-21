@@ -33,6 +33,7 @@
 * [ETHEREUM](blockchains-and-projects/ethereum.md)
 * [PARTISIA](blockchains-and-projects/partisia.md)
 * [POLYGON](blockchains-and-projects/polygon.md)
+* [CROSS PLATFORM PROJECTS](blockchains-and-projects/cross-platform-projects.md)
 * [TRUST REGISTRY](blockchains-and-projects/trust-registry.md)
 
 ## LICENSES
