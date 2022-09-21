@@ -1,5 +1,9 @@
 # The open SSI / DID Directory
 
+<figure><img src=".gitbook/assets/daniel-k-cheung-cPF2nlWcMY4-unsplash.jpg" alt=""><figcaption><p>Photo by <a href="https://unsplash.com/@danielkcheung?utm_source=unsplash&#x26;utm_medium=referral&#x26;utm_content=creditCopyText">Daniel K Cheung</a> on <a href="https://unsplash.com/?utm_source=unsplash&#x26;utm_medium=referral&#x26;utm_content=creditCopyText">Unsplash</a></p></figcaption></figure>
+
+
+
 {% hint style="info" %}
 **Important:** This directory is here for all of us to learn. You do not have to be technical to contribute, but we expect you to do your research before you contribute. We are blockchain agnostic. **This is no place for hate. Be kind and forgiving. ❤️**&#x20;
 
@@ -8,10 +12,6 @@ You can present your project, but make sure it is not a commercial and you follo
 * [Code of Conduct](CODE\_OF\_CONDUCT.md)
 * [Contribution Guide](CONTRIBUTING.md)
 {% endhint %}
-
-<figure><img src="https://images.unsplash.com/photo-1584735935301-414a21553095?crop=entropy&#x26;cs=tinysrgb&#x26;fm=jpg&#x26;ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8eW9kYSUyMGxlZ298ZW58MHx8fHwxNjYzNzIzNTgy&#x26;ixlib=rb-1.2.1&#x26;q=80" alt=""><figcaption><p>Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&#x26;utm_medium=referral&#x26;utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/?utm_source=unsplash&#x26;utm_medium=referral&#x26;utm_content=creditCopyText">Unsplash</a></p></figcaption></figure>
-
-
 
 DID and SSI are still very young technologies and yet to be explored. &#x20;
 
