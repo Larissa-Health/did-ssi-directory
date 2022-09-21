@@ -1,7 +1,3 @@
----
-description: 'source: https://www.w3.org/TR/did-core/'
----
-
 # DIDs in a nutshell
 
 In our context, Digital identifiers are an arbitrage way to leverage an already created profile to get secure access to a third-party application. Digital identities involve cryptography and are stored on a ledger.
