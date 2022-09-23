@@ -31,10 +31,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [ssi-in-a-nutshell.md](fundamentals/ssi-in-a-nutshell.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/contribution-pattern.md" %}
-[contribution-pattern.md](fundamentals/contribution-pattern.md)
-{% endcontent-ref %}
-
 ### Fundamentals: Dive a little deeper
 
 Get a deeper understanding of DID, SSI, why they matter and who is working on it
@@ -50,3 +46,13 @@ Get a deeper understanding of DID, SSI, why they matter and who is working on it
 {% content-ref url="blockchains-and-projects/trust-registry.md" %}
 [trust-registry.md](blockchains-and-projects/trust-registry.md)
 {% endcontent-ref %}
+
+### Start contributing
+
+{% content-ref url="fundamentals/contribution-pattern.md" %}
+[contribution-pattern.md](fundamentals/contribution-pattern.md)
+{% endcontent-ref %}
+
+{% embed url="https://app.gitbook.com/invite/46MTfw4F9reerGVuFcoI/TRDM1FqFHWRjyHaeqU81" %}
+
+{% embed url="https://github.com/Larissa-Health/did-ssi-directory" %}
