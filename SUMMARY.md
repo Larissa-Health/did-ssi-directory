@@ -30,7 +30,7 @@
   * [IAMX](blockchains-and-projects/cardano/iamx.md)
   * [Lace Wallet](blockchains-and-projects/cardano/lace-wallet.md)
   * [Proofspace](blockchains-and-projects/cardano/proofspace.md)
-  * [Roots ID](blockchains-and-projects/cardano/roots-id.md)
+  * [RootsID](blockchains-and-projects/cardano/roots-id.md)
 * [ETHEREUM](blockchains-and-projects/ethereum.md)
 * [PARTISIA](blockchains-and-projects/partisia.md)
 * [POLYGON](blockchains-and-projects/polygon.md)
