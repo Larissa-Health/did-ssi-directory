@@ -1,6 +1,6 @@
 # RootsID
 
-[Website](https://www.rootsid.com)
+[https://www.rootsid.com](https://www.rootsid.com)
 
 ### **Open source development team building Self-Sovereign Identity standards and promoting adoption & interoperability**
 
