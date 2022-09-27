@@ -10,7 +10,7 @@
 * [Sources and Working Groups](fundamentals/sources-and-working-groups.md)
 * [SCIENTIFIC FOUNDATION](fundamentals/scientific-foundation/README.md)
   * [Origins](fundamentals/scientific-foundation/origins.md)
-  * [Dezentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
+  * [Decentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
   * [Self-Sovereign Identity (SSI)](fundamentals/scientific-foundation/task-lists.md)
   * [Common Goals](fundamentals/scientific-foundation/common-goals.md)
   * [Constraints](fundamentals/scientific-foundation/constraints.md)
