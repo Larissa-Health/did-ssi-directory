@@ -9,6 +9,7 @@
 * [Contribution Pattern](fundamentals/contribution-pattern.md)
 * [Sources and Working Groups](fundamentals/sources-and-working-groups.md)
 * [SCIENTIFIC FOUNDATION](fundamentals/scientific-foundation/README.md)
+  * [Verifiable Credentials (VC)](fundamentals/scientific-foundation/verifiable-credentials-vc.md)
   * [Origins](fundamentals/scientific-foundation/origins.md)
   * [Self-Sovereign Identity (SSI)](fundamentals/scientific-foundation/task-lists.md)
   * [Decentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
