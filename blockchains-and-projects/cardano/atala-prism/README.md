@@ -1,10 +1,6 @@
----
-description: https://atalaprism.io
----
+# Atala PRISM
 
-# Atala Prism
-
-
+[https://www.atalaprism.io](https://www.atalaprism.io)
 
 {% hint style="info" %}
 Atala PRISM is a self-sovereign identity (SSI) platform and service suite for verifiable data and digital identity. Built on Cardano, it offers core infrastructure for issuing DIDs (Decentralized identifiers) and verifiable credentials, alongside tools and frameworks to help expand your ecosystem.

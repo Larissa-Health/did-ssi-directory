@@ -22,7 +22,7 @@
     * [Installation Guide](blockchains-and-projects/bitcoin/ion/installation-guide.md)
     * [Community](blockchains-and-projects/bitcoin/ion/community.md)
 * [CARDANO](blockchains-and-projects/cardano/README.md)
-  * [Atala Prism](blockchains-and-projects/cardano/atala-prism/README.md)
+  * [Atala PRISM](blockchains-and-projects/cardano/atala-prism/README.md)
     * [v1 - current Version](blockchains-and-projects/cardano/atala-prism/v1-current-version/README.md)
       * [Installation Guide](blockchains-and-projects/cardano/atala-prism/v1-current-version/installation-guide.md)
     * [Community](blockchains-and-projects/cardano/atala-prism/community.md)
