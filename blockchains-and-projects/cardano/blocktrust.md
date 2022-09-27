@@ -1,10 +1,13 @@
 ---
-description: https://www.blocktrust.dev
+description: >-
+  Blocktrust develops wallets, products and tools around Atala PRISM. The
+  technological focus is on .net based solutions. Currently, three proposals are
+  under development:
 ---
 
 # Blocktrust
 
-Blocktrust develops wallets, products and tools around Atala PRISM. The technological focus is on .net based solutions. Currently, three proposals are under development:
+[https://www.blocktrust.dev](https://www.blocktrust.dev)
 
 ### Blocktrust identity wallet
 
