@@ -14,6 +14,7 @@
   * [Decentralized Identifiers (DID)](fundamentals/scientific-foundation/tasks.md)
   * [Verifiable Credentials (VC)](fundamentals/scientific-foundation/verifiable-credentials-vc.md)
   * [Governance Framework](fundamentals/scientific-foundation/governance-framework.md)
+  * [Trust Registry](fundamentals/scientific-foundation/trust-registry.md)
   * [Common Goals](fundamentals/scientific-foundation/common-goals.md)
   * [Constraints](fundamentals/scientific-foundation/constraints.md)
 
