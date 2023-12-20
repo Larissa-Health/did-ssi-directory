@@ -38,9 +38,6 @@ POLYGON
 CROSS PLATFORM PROJECTS
 ```
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 This is the shortest introduction to editing we have found so far. It is a bit dated, but straight to the point.
 
