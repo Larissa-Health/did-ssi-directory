@@ -12,7 +12,7 @@ Use your best judgment, and feel free to propose changes to this document in a p
 
 See [CODE_OF_CONDUCT.md](https://github.com/Larissa-Health/did-ssi-directory/blob/main/CODE_OF_CONDUCT.md)
 
-## I don't want to read all of this, I just have question!
+## I don't want to read all of this, I just have a question!
 
 Please check out our [Discussions section](https://github.com/Larissa-Health/did-ssi-directory/discussions). 
 Maybe you find a thread that answers your questions. 
